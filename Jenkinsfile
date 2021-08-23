@@ -17,4 +17,5 @@ node {
     	   bat 'gradle build -x test'
     	  }
 	    }
-     }
+	}
+}
