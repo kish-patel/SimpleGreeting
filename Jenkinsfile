@@ -4,6 +4,6 @@ node {
     }
     
     stage('Gradle build') {
-        bat 'gradle build'
+        bat 'gradle build -x test'
     }
 }
