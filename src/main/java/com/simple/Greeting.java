@@ -17,7 +17,7 @@ public class Greeting
     
     public String getStatus(){
     	
-    	return "Trying something else to break the build";
+    	return "GOOD";
     	
     }
 }
